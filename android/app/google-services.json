@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "856762738785",
+    "project_id": "covidhealthcare-518c9",
+    "storage_bucket": "covidhealthcare-518c9.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:856762738785:android:5ea1c01859fe33b9222220",
+        "android_client_info": {
+          "package_name": "com.example.college_covid_healthcare_system"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "856762738785-o9mc1itnok4u5vjunvhcsmr2qm46f4gt.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBNriDyoEeLNkXyIkHdUNs1bySSEkyudik"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "856762738785-o9mc1itnok4u5vjunvhcsmr2qm46f4gt.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
